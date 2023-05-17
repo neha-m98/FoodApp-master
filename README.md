@@ -14,8 +14,6 @@ Check out the live demo of the Food Ordering Application: [Italian Food Applicat
 
 - **Order Placement**: Users can place orders by providing their contact information and confirming the order details.
 
-- **Order Tracking**: Users can track the status of their orders in real-time, including order confirmation, preparation, and delivery.
-
 - **Popup Dialogs**: The application includes popup dialogs for order confirmation, success, and error messages, providing a visually appealing and user-friendly experience.
 
 - **Firebase Integration**: The application integrates with Firebase, allowing seamless data storage, real-time updates, and authentication.
